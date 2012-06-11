@@ -1,3 +1,7 @@
 [Dwarf Fortress](http://www.bay12games.com/dwarves) is a complex ASCII-based game, somewhat of a cross between a [Roguelike](http://en.wikipedia.org/wiki/Roguelike) and [SimCity](http://en.wikipedia.org/wiki/SimCity). Although a [mode](http://dwarffortresswiki.org/index.php/DF2012:Adventurer_mode) closely resembling a traditional rogulike exists, the bulk of Dwarf Fortress is a worldbuilding simulation. Despite the primitive appearing graphics, Dwarf Fortress has a from-scratch procedural terrain generation system, a combat system including detailed damage modeling to limbs and organs, and a world populated by massive arrays of potential enemies and trading partners.
 
+The unofficial slogan of Dwarf Fortress is "Losing is Fun!". There is no end goal other than survival, and on a great enough timeline, chances of survival drop to zero. Between the start of the game and the end, the usual gameplay revolves around taking a small colony of dwarves, constructing a fortress for them, and building enough workshops, mushroom farms, beehives, screw presses, magma forges, and distilleries to keep them happy.
+
+A [New York Times article](http://www.nytimes.com/2011/07/24/magazine/the-brilliance-of-dwarf-fortress.html?_r=1&pagewanted=all) called Dwarf Fortress "perhaps the most complex video game ever made", and to say the game has a steep learning curve would be somewhat underestimating the issue. The interface 
+
 
