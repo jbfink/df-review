@@ -4,4 +4,6 @@ The unofficial slogan of Dwarf Fortress is "Losing is Fun!". There is no end goa
 
 A [New York Times article](http://www.nytimes.com/2011/07/24/magazine/the-brilliance-of-dwarf-fortress.html?_r=1&pagewanted=all) called Dwarf Fortress "perhaps the most complex video game ever made", and to say the game has a steep learning curve would be a serious understatement. The interface calls to mind word processor software from the 1980s, and the lack of a goal and the tendency for dwarves to be wiped out due to rampaging demons or goblin hordes may discourage some players. However, fans of similarly seemingly-purposeless games such as [Minecraft](http://minecraft.net) may feel right at home with the open world plotless concept and [like](http://www.engadget.com/2010/11/09/minecraft-users-go-wild-building-cpus-in-their-virtual-world-vi/) Minecraft, players have [done astonishing and wonderful things](http://www.geekosystem.com/dwarf-fortress-turing-machine-computer/) with the game. 
 
+Dwarf Fortress is free. However, it may require a fairly recent machine if large worlds with a lot of history are generated. It's definitely not a casual or pick up and play game, but investing time in it can yield some pretty delightful payoffs.
 
+httpvh://www.youtube.com/watch?v=wnhuaF1sOAw
